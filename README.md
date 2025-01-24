@@ -35,7 +35,7 @@ Connect your home network with a few clicks and use our flexible Docker app for 
 Benefit from state-of-the-art encryption, token-based authentication, and API access controls.
 
 ## Pricing Plans
-
+```
 ### Promo
 **Alpha Test Promotion**  
 
@@ -43,8 +43,8 @@ Benefit from state-of-the-art encryption, token-based authentication, and API ac
 - Standard support
 - Basic security features
 
-**€0.00/Month**
-
+**€0.00/Month**```
+___
 ### Basic Subscription
 - Maximum connections: 3
 - Standard support
