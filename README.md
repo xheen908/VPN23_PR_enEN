@@ -87,10 +87,9 @@ Benefit from state-of-the-art encryption, token-based authentication, and API ac
 
 ### Custom Subscription
 **For businesses or large networks**  
-
-- Custom connections
-- Custom networks
-- Custom support
+- Multiple Networks
+- Multiple Clients
+- Custom Support
 - Advanced security features
 
 **Custom Price**
