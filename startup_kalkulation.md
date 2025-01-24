@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://x3.dynu.com/assets/logo-D3O0-4lF.png" alt="VPN23 Logo" width="200"/>
+</div>
+
 # VPN-Startup-Kalkulation für Solo-Founder
 
 Dieses Dokument zeigt eine **Beispiel-Kalkulation** für den Aufbau eines VPN-Dienstes als Ein-Personen-Unternehmen („Solo-Founder“). Es dient als Orientierung für **Serverkosten**, **Break-Even-Punkte** und **Wachstumsprognosen**, wenn man mit **möglichst geringen Fixkosten** starten möchte.
@@ -130,3 +134,12 @@ Selbst dann bleiben die Fixkosten vergleichsweise niedrig. Die Gewinnspanne ist 
    - **Marktdurchdringung**: VPN ist ein umkämpfter Markt. Eine rein organische Strategie braucht Geduld; bezahlte Werbung kostet Geld.
 
 Trotzdem zeigt das Beispiel, dass ein VPN-Projekt **durchaus realisierbar** ist, ohne direkt hohe Kosten zu verursachen – sofern man das **technische Wissen**, die **Zeit** und **Energie** aufbringt, alles eigenhändig zu erledigen.
+
+---
+
+## Weitere Ressourcen
+
+- [Startup in Panama](https://github.com/xheen908/VPN23_/blob/main/startup_panama.md)  
+- [Startup Businessplan](https://github.com/xheen908/VPN23_/blob/main/startup_buisnessplan.md)  
+- [Startup Roadmap](https://github.com/xheen908/VPN23_/blob/main/startup_roadmap.md)  
+- [Zusatz (Ergänzende Punkte)](https://github.com/xheen908/VPN23_/blob/main/zusatz.md)  
