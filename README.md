@@ -94,6 +94,8 @@ Benefit from state-of-the-art encryption, token-based authentication, and API ac
 ## Demo
 
 Experience VPN23.com in action! Visit our [Demo Page](https://x3.dynu.com) and test the features for free.
+Demo User = demo
+Demo Password = demo
 
 ## Installation
 
