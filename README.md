@@ -48,21 +48,24 @@ Profitieren Sie von modernster Verschlüsselung, token-basierter Authentifizieru
 - Grundlegende Sicherheitsfunktionen
 
 ### Basic Abo
-**€4.95/Monat**
+**€5.99/Monat**
+**€59.99/Jahr**
 
 - Maximale Verbindungen: 3
 - Standard-Support
 - Grundlegende Sicherheitsfunktionen
 
 ### Pro Abo
-**€9.95/Monat**
+**€11.99/Monat**
+**€119.99/Jahr**
 
 - Maximale Verbindungen: 6
 - Standard-Support
 - Grundlegende Sicherheitsfunktionen
 
 ### Ultra Abo
-**€19.95/Monat**
+**€23.99/Monat**
+**€239.99/Jahr**
 
 - Maximale Verbindungen: 12
 - Premium-Support
@@ -70,7 +73,8 @@ Profitieren Sie von modernster Verschlüsselung, token-basierter Authentifizieru
 
 ### Platin Abo
 **Für Unternehmen oder Große Netzwerke**  
-**€79.95/Monat**
+**€99.99/Monat**
+**€999.99/Jahr**
 
 - Maximale Verbindungen: 254
 - Premium-Support
