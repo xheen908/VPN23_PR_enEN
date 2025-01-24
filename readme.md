@@ -16,6 +16,8 @@ With VPN23.com, you don't have to worry about security. Our platform offers stat
 
 **VPN23.com: The Future of Networking – simple, secure, and accessible to everyone.**
 
+---
+
 ## Features
 
 ### Virtual Networks
@@ -34,99 +36,118 @@ Connect your home network with a few clicks and use our flexible Docker app for 
 **Protect your data**  
 Benefit from state-of-the-art encryption, token-based authentication, and API access controls.
 
+---
+
 ## Pricing Plans
 
 ### Basic Subscription
-- Networks: 1
-- Maximum connections: 3
-- Standard support
-- Basic security features
+- Networks: 1  
+- Maximum connections: 3  
+- Standard support  
+- Basic security features  
 
-**€5.99/Month**
-
+**€5.99/Month**  
 **€59.99/Year**
 
 ---
 
 ### Pro Subscription
-- Networks: 2
-- Maximum connections: 6
-- Standard support
-- Basic security features
+- Networks: 2  
+- Maximum connections: 6  
+- Standard support  
+- Basic security features  
 
-**€11.99/Month**
-
+**€11.99/Month**  
 **€119.99/Year**
 
 ---
 
 ### Ultra Subscription
-- Networks: 5
-- Maximum connections: 15
-- Premium support
-- Advanced security features
+- Networks: 5  
+- Maximum connections: 15  
+- Premium support  
+- Advanced security features  
 
-**€23.99/Month**
-
+**€23.99/Month**  
 **€239.99/Year**
 
 ---
 
 ### Platinum Subscription
 **For businesses or large networks**  
-- Multiple Networks
-- Maximum connections: 254
-- Premium support
-- Advanced security features
+- Multiple Networks  
+- Maximum connections: 254  
+- Premium support  
+- Advanced security features  
 
-**€99.99/Month**
-
+**€99.99/Month**  
 **€999.99/Year**
 
 ---
 
 ### Custom Subscription
 **For businesses or large networks**  
-- Multiple Networks
-- Multiple Clients
-- Custom Support
-- Advanced security features
+- Multiple Networks  
+- Multiple Clients  
+- Custom Support  
+- Advanced security features  
 
-**Custom Price**
-
-
+**Custom Price**  
 
 ---
 
 ## Technology Stack
 
-- **Backend:** Node.js
-- **Frontend:** Ionic React Capacitor (iOS, Android, and Web Landing Page)
-- **Database:** MySQL
-- **Network:** Wireguard
-- **Payment Integration:** Stripe
+- **Backend:** Node.js  
+- **Frontend:** Ionic React Capacitor (iOS, Android, and Web Landing Page)  
+- **Database:** MySQL  
+- **Network:** Wireguard  
+- **Payment Integration:** Stripe  
+
+---
 
 ## Demo
 
-Experience VPN23.com in action! Visit our [Demo Page](https://x3.dynu.com) and test the features for free.
-user/pass = demo/demo
+Experience VPN23.com in action! Visit our [Demo Page](https://x3.dynu.com) and test the features for free.  
+**user/pass = demo/demo**
+
+---
 
 ## Installation
 
 Since the source code is not publicly accessible, you can use the platform via our demo or by contacting our sales team.
 
+---
+
 ## Contact
 
 For more information, support, or questions, please contact us:
 
-- **Email:** xheen908@gmail.com
-- **Demo:** [https://x3.dynu.com](https://x3.dynu.com)
-- **Demo Android App:** [https://x3.dynu.com/public/VPN23_0.25.7_(alpha).apk](https://x3.dynu.com/public/VPN23_0.25.7_(alpha).apk)
+- **Email:** xheen908@gmail.com  
+- **Demo:** [https://x3.dynu.com](https://x3.dynu.com)  
+- **Demo Android App:** [https://x3.dynu.com/public/VPN23_0.25.7_(alpha).apk](https://x3.dynu.com/public/VPN23_0.25.7_(alpha).apk)  
+
+---
 
 ## License
 
-This project is copyright protected. All rights reserved.
+This project is copyright protected.  
+All rights reserved.
+
+---
 
 ## Acknowledgment
 
 Many thanks to everyone who contributed to the development and growth of VPN23.com!
+
+---
+
+## Additional Documentation & Resources
+
+To learn more about our **startup calculations**, **business plan**, **Panama-based setup**, and further **details**, check out these pages (like chapters of a book):
+
+1. [Startup Kalkulation](https://github.com/xheen908/VPN23_/blob/main/startup_kalkulation.md)  
+2. [Startup in Panama](https://github.com/xheen908/VPN23_/blob/main/startup_panama.md)  
+3. [Startup Businessplan](https://github.com/xheen908/VPN23_/blob/main/startup_buisnessplan.md)  
+4. [Startup Roadmap](https://github.com/xheen908/VPN23_/blob/main/startup_roadmap.md)  
+5. [Zusatz – Ergänzende Punkte](https://github.com/xheen908/VPN23_/blob/main/zusatz.md)
