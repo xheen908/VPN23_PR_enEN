@@ -149,3 +149,4 @@ This roadmap provides a **structured guide** on how to realize the VPN service s
 3. [Startup Business Plan](https://github.com/xheen908/VPN23_PR_enEN/blob/main/startup_buisnessplan.md)  
 4. [Startup Roadmap](https://github.com/xheen908/VPN23_PR_enEN/blob/main/startup_roadmap.md)  
 5. [Additional – Supplementary Points](https://github.com/xheen908/VPN23_PR_enEN/blob/main/zusatz.md)
+6. [Shareholders_Agreement.md](https://github.com/xheen908/VPN23_PR_enEN/blob/main/Shareholders_Agreement.md)
