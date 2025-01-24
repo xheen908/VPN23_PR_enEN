@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://x3.dynu.com/assets/logo-D3O0-4lF.png" alt="VPN23 Logo" width="200"/>
+</div>
+
 # Zusatz: Fehlende bzw. Ergänzende Punkte
 
 Obwohl bereits **Businessplan**, **Roadmap** und **Gesellschaftervertrag** vorhanden sind, gibt es in der Praxis weitere wichtige Themen, die du für ein solides Fundament deines VPN-Startups beachten solltest:
