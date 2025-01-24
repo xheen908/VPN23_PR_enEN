@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://x3.dynu.com/assets/logo-D3O0-4lF.png" alt="VPN23 Logo" width="200"/>
+</div>
+
 # Businessplan für das VPN-Startup
 
 Dieser **Businessplan** fasst die wichtigsten Informationen zum geplanten VPN-Startup zusammen. Er stützt sich auf folgende Dokumente in deinem GitHub-Repository:
@@ -12,7 +16,7 @@ Dieser **Businessplan** fasst die wichtigsten Informationen zum geplanten VPN-St
 
 Unser Ziel ist die Gründung und der weltweite Betrieb eines **VPN-Dienstes**, der für Kunden hohen Datenschutz, Datensicherheit und Anonymität im Netz gewährleistet. Ein **Solo-Founder** (Hauptgründer) startet das Projekt, unterstützt durch zwei zusätzliche Co-Gesellschafter:
 
-- **Hauptgründer**: 75 % Anteile
+- **Hauptgründer**: 75 % Anteile  
 - **Zwei Co-Gesellschafter**: je 12,5 %, Einlage je 10.000 €
 
 Das Unternehmen soll in **Panama** (Offshore-Setup) gegründet werden, um internationale Expansion und günstige Rahmenbedingungen zu nutzen.
