@@ -41,47 +41,52 @@ Profitieren Sie von modernster Verschlüsselung, token-basierter Authentifizieru
 
 ### Promo
 **Alphatest Promotion**  
-**€0.00/Monat**
 
 - Maximale Verbindungen: 2
 - Standard-Support
 - Grundlegende Sicherheitsfunktionen
 
+**€0.00/Monat**
+
 ### Basic Abo
-**€5.99/Monat**
-
-**€59.99/Jahr**
-
 - Maximale Verbindungen: 3
 - Standard-Support
 - Grundlegende Sicherheitsfunktionen
 
-### Pro Abo
-**€11.99/Monat**
-**€119.99/Jahr**
+**€5.99/Monat**
 
+**€59.99/Jahr**
+
+### Pro Abo
 - Maximale Verbindungen: 6
 - Standard-Support
 - Grundlegende Sicherheitsfunktionen
+  
+**€11.99/Monat**
+
+**€119.99/Jahr**
 
 ### Ultra Abo
-**€23.99/Monat**
-
-**€239.99/Jahr**
 
 - Maximale Verbindungen: 12
 - Premium-Support
 - Erweiterte Sicherheitsfunktionen
 
+**€23.99/Monat**
+
+**€239.99/Jahr**
+
+
 ### Platin Abo
 **Für Unternehmen oder Große Netzwerke**  
-**€99.99/Monat**
-
-**€999.99/Jahr**
 
 - Maximale Verbindungen: 254
 - Premium-Support
 - Erweiterte Sicherheitsfunktionen
+
+**€99.99/Monat**
+
+**€999.99/Jahr**
 
 ## Technologie-Stack
 
