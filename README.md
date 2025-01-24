@@ -92,8 +92,7 @@ Da der Quellcode nicht öffentlich zugänglich ist, können Sie die Plattform ü
 
 Für weitere Informationen, Support oder Fragen kontaktieren Sie uns bitte:
 
-- **E-Mail:** support@vpn23.com
-- **Website:** [VPN23.com](https://vpn23.com)
+- **E-Mail:** xheen908@gmail.comm
 - **Demo:** [https://x3.dynu.com](https://x3.dynu.com)
 
 ## Lizenz
