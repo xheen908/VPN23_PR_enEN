@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://x3.dynu.com/assets/logo-D3O0-4lF.png" alt="VPN23 Logo" width="200"/>
+</div>
+
 # Roadmap für das VPN-Startup (Panama-Gründung und Betriebsstart)
 
 Diese **Roadmap** skizziert in zeitlicher Reihenfolge die wichtigsten Schritte, um das **VPN-Startup** aufzubauen, die **Offshore-Firma** in Panama zu gründen und den operativen Betrieb aufzunehmen. Die Aufteilung in Phasen (Monate) dient als grobe Orientierung – je nach Umständen kann sich der Zeitplan anpassen.
