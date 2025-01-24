@@ -209,5 +209,6 @@ For more details on **financial** and **startup topics**, see:
 3. [Startup Business Plan](https://github.com/xheen908/VPN23_PR_enEN/blob/main/startup_buisnessplan.md)  
 4. [Startup Roadmap](https://github.com/xheen908/VPN23_PR_enEN/blob/main/startup_roadmap.md)  
 5. [Supplement – Additional Points](https://github.com/xheen908/VPN23_PR_enEN/blob/main/zusatz.md)
+6. [Shareholders_Agreement.md](https://github.com/xheen908/VPN23_PR_enEN/blob/main/Shareholders_Agreement.md)
 
 With the consistent implementation of this business plan, there is nothing standing in the way of a successful **VPN establishment** in Panama.
