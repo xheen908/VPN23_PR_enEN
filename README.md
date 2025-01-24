@@ -2,10 +2,12 @@
 VPN23_Presentation
 # VPN23.com
 
-<div align="center">
-    <img src="(https://x3.dynu.com/assets/logo-D3O0-4lF.png)" alt="VPN23 Logo" width="200"/>
-</div>
+![VPN23 Logo](https://x3.dynu.com/assets/logo-D3O0-4lF.png)
 
+
+<div align="center">
+    <img src="https://x3.dynu.com/assets/logo-D3O0-4lF.png" alt="VPN23 Logo" width="200"/>
+</div>
 
 
 ## Unsere Vision
