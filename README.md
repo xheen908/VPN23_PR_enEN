@@ -2,7 +2,7 @@
     <img src="https://x3.dynu.com/assets/logo-D3O0-4lF.png" alt="VPN23 Logo" width="200"/>
 </div>
 
-# VPN23.com
+# VPN23
 
 ## Our Vision
 
