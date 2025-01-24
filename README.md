@@ -121,7 +121,7 @@ For more information, support, or questions, please contact us:
 
 - **Email:** xheen908@gmail.com
 - **Demo:** [https://x3.dynu.com](https://x3.dynu.com)
-- **DemoApp:** [https://x3.dynu.com/public/VPN23_0.25.7_(alpha).apk](https://x3.dynu.com/public/VPN23_0.25.7_(alpha).apk)
+- **Demo Android App:** [https://x3.dynu.com/public/VPN23_0.25.7_(alpha).apk](https://x3.dynu.com/public/VPN23_0.25.7_(alpha).apk)
 
 ## License
 
