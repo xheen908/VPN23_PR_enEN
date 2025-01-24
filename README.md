@@ -92,7 +92,7 @@ Da der Quellcode nicht öffentlich zugänglich ist, können Sie die Plattform ü
 
 Für weitere Informationen, Support oder Fragen kontaktieren Sie uns bitte:
 
-- **E-Mail:** xheen908@gmail.comm
+- **E-Mail:** xheen908@gmail.com
 - **Demo:** [https://x3.dynu.com](https://x3.dynu.com)
 
 ## Lizenz
