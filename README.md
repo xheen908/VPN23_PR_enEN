@@ -88,6 +88,7 @@ Benefit from state-of-the-art encryption, token-based authentication, and API ac
 - **Backend:** Node.js
 - **Frontend:** Ionic React Capacitor (iOS, Android, and Web Landing Page)
 - **Database:** MySQL
+- **Network:** Wireguard
 - **Payment Integration:** Stripe
 
 ## Demo
