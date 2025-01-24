@@ -204,10 +204,10 @@ This VPN startup has the potential to become profitable with **relatively low in
 4. **Beta launch** & collect feedback, optimize, then broader rollout.
 
 For more details on **financial** and **startup topics**, see:  
-1. [Startup Calculation](https://github.com/xheen908/VPN23_/blob/main/startup_kalkulation.md)  
-2. [Startup in Panama](https://github.com/xheen908/VPN23_/blob/main/startup_panama.md)  
-3. [Startup Business Plan](https://github.com/xheen908/VPN23_/blob/main/startup_buisnessplan.md)  
-4. [Startup Roadmap](https://github.com/xheen908/VPN23_/blob/main/startup_roadmap.md)  
-5. [Supplement – Additional Points](https://github.com/xheen908/VPN23_/blob/main/zusatz.md)
+1. [Startup Calculation](https://github.com/xheen908/VPN23_PR_enEN/blob/main/startup_kalkulation.md)  
+2. [Startup in Panama](https://github.com/xheen908/VPN23_PR_enEN/blob/main/startup_panama.md)  
+3. [Startup Business Plan](https://github.com/xheen908/VPN23_PR_enEN/blob/main/startup_buisnessplan.md)  
+4. [Startup Roadmap](https://github.com/xheen908/VPN23_PR_enEN/blob/main/startup_roadmap.md)  
+5. [Supplement – Additional Points](https://github.com/xheen908/VPN23_PR_enEN/blob/main/zusatz.md)
 
 With the consistent implementation of this business plan, there is nothing standing in the way of a successful **VPN establishment** in Panama.
