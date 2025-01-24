@@ -139,8 +139,8 @@ Nonetheless, this example shows that launching a VPN project is **absolutely fea
 
 ## Additional Resources
 
-1. [Startup Calculation](https://github.com/xheen908/VPN23_/blob/main/startup_kalkulation.md)  
-2. [Startup in Panama](https://github.com/xheen908/VPN23_/blob/main/startup_panama.md)  
-3. [Startup Business Plan](https://github.com/xheen908/VPN23_/blob/main/startup_buisnessplan.md)  
-4. [Startup Roadmap](https://github.com/xheen908/VPN23_/blob/main/startup_roadmap.md)  
-5. [Add-On – Supplementary Points](https://github.com/xheen908/VPN23_/blob/main/zusatz.md)
+1. [Startup Calculation](https://github.com/xheen908/VPN23_PR_enEN/blob/main/startup_kalkulation.md)  
+2. [Startup in Panama](https://github.com/xheen908/VPN23_PR_enEN/blob/main/startup_panama.md)  
+3. [Startup Business Plan](https://github.com/xheen908/VPN23_PR_enEN/blob/main/startup_buisnessplan.md)  
+4. [Startup Roadmap](https://github.com/xheen908/VPN23_PR_enEN/blob/main/startup_roadmap.md)  
+5. [Add-On – Supplementary Points](https://github.com/xheen908/VPN23_PR_enEN/blob/main/zusatz.md)
