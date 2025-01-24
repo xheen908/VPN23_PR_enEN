@@ -43,8 +43,10 @@ Benefit from state-of-the-art encryption, token-based authentication, and API ac
 - Standard support
 - Basic security features
 
-**€0.00/Month**```
-___
+**€0.00/Month**
+
+---
+
 ### Basic Subscription
 - Maximum connections: 3
 - Standard support
