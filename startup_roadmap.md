@@ -139,3 +139,9 @@ Diese **Roadmap** skizziert in zeitlicher Reihenfolge die wichtigsten Schritte, 
 - **Ab Jahr 2**: Globale Expansion, B2B-Ansätze, Team-Erweiterung, fortlaufende Optimierungen  
 
 Diese Roadmap bietet einen **strukturierten Leitfaden**, wie der VPN-Dienst Schritt für Schritt realisiert werden kann. Die genaue **Geschwindigkeit** des Wachstums hängt stark von **Marketing**, **Kundenakzeptanz** und **technischer Stabilität** ab.
+
+1. [Startup Kalkulation](https://github.com/xheen908/VPN23_/blob/main/startup_kalkulation.md)  
+2. [Startup in Panama](https://github.com/xheen908/VPN23_/blob/main/startup_panama.md)  
+3. [Startup Businessplan](https://github.com/xheen908/VPN23_/blob/main/startup_buisnessplan.md)  
+4. [Startup Roadmap](https://github.com/xheen908/VPN23_/blob/main/startup_roadmap.md)  
+5. [Zusatz – Ergänzende Punkte](https://github.com/xheen908/VPN23_/blob/main/zusatz.md)2
