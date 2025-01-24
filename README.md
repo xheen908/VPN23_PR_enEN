@@ -36,17 +36,6 @@ Benefit from state-of-the-art encryption, token-based authentication, and API ac
 
 ## Pricing Plans
 
-### Promo
-**Alpha Test Promotion**  
-
-- Maximum connections: 2
-- Standard support
-- Basic security features
-
-**€0.00/Month**
-
----
-
 ### Basic Subscription
 - Maximum connections: 3
 - Standard support
