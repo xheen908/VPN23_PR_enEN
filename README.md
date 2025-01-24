@@ -55,6 +55,7 @@ Benefit from state-of-the-art encryption, token-based authentication, and API ac
 **€5.99/Month**
 
 **€59.99/Year**
+
 ---
 
 ### Pro Subscription
@@ -66,6 +67,8 @@ Benefit from state-of-the-art encryption, token-based authentication, and API ac
 
 **€119.99/Year**
 
+---
+
 ### Ultra Subscription
 
 - Maximum connections: 12
@@ -75,6 +78,7 @@ Benefit from state-of-the-art encryption, token-based authentication, and API ac
 **€23.99/Month**
 
 **€239.99/Year**
+
 ---
 
 ### Platinum Subscription
@@ -87,6 +91,7 @@ Benefit from state-of-the-art encryption, token-based authentication, and API ac
 **€99.99/Month**
 
 **€999.99/Year**
+
 ---
 
 ## Technology Stack
