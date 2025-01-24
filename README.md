@@ -35,7 +35,7 @@ Connect your home network with a few clicks and use our flexible Docker app for 
 Benefit from state-of-the-art encryption, token-based authentication, and API access controls.
 
 ## Pricing Plans
-```
+
 ### Promo
 **Alpha Test Promotion**  
 
@@ -55,6 +55,7 @@ Benefit from state-of-the-art encryption, token-based authentication, and API ac
 **€5.99/Month**
 
 **€59.99/Year**
+---
 
 ### Pro Subscription
 - Maximum connections: 6
@@ -74,6 +75,7 @@ Benefit from state-of-the-art encryption, token-based authentication, and API ac
 **€23.99/Month**
 
 **€239.99/Year**
+---
 
 ### Platinum Subscription
 **For businesses or large networks**  
@@ -85,6 +87,7 @@ Benefit from state-of-the-art encryption, token-based authentication, and API ac
 **€99.99/Month**
 
 **€999.99/Year**
+---
 
 ## Technology Stack
 
