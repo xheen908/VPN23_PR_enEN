@@ -1,120 +1,115 @@
-
-
 <div align="center">
     <img src="https://x3.dynu.com/assets/logo-D3O0-4lF.png" alt="VPN23 Logo" width="200"/>
 </div>
 
 # VPN23.com
 
+## Our Vision
 
-## Unsere Vision
+VPN23.com sets new standards in networking home networks and remote devices. Our user-friendly platform offers a unique solution to seamlessly, securely, and easily connect networks and IoT devices – an innovation that sets us apart from all other providers.
 
-VPN23.com setzt neue Maßstäbe in der Vernetzung von Heimnetzwerken und entfernten Geräten. Unsere benutzerfreundliche Plattform bietet eine einzigartige Lösung, um Netzwerke und IoT-Geräte nahtlos, sicher und einfach zu verbinden – eine Innovation, die uns von allen anderen Anbietern abhebt.
+While other systems are often complicated and hard to understand, VPN23.com allows for intuitive operation that does not require in-depth technical knowledge. Our solution is specifically designed to create scalable and easily manageable network infrastructures that meet the highest security standards. Whether it is a smart home system, corporate networks, or the integration of IoT devices – we provide a platform that effortlessly adapts to your needs.
 
-Während andere Systeme oft kompliziert und schwer verständlich sind, ermöglicht VPN23.com eine intuitive Bedienung, die keine tiefgehenden technischen Kenntnisse erfordert. Unsere Lösung wurde speziell entwickelt, um skalierbare und leicht verwaltbare Netzwerkinfrastrukturen zu schaffen, die höchste Sicherheitsstandards erfüllen. Egal, ob es sich um ein Smart-Home-System, Unternehmensnetzwerke oder die Integration von IoT-Geräten handelt – wir bieten eine Plattform, die sich mühelos an Ihre Bedürfnisse anpasst.
+Particularly noteworthy is that VPN23.com is the only provider that enables such uncomplicated and secure networking of IoT devices. Our technology connects various smart devices like sensors, cameras, thermostats, or industrial machines without you having to deal with complex technical requirements.
 
-Besonders hervorzuheben ist, dass VPN23.com der einzige Anbieter ist, der eine derart unkomplizierte und zugleich sichere Vernetzung von IoT-Geräten ermöglicht. Unsere Technologie verbindet verschiedenste smarte Geräte wie Sensoren, Kameras, Thermostate oder industrielle Maschinen, ohne dass Sie sich mit komplexen technischen Anforderungen beschäftigen müssen.
+With VPN23.com, you don't have to worry about security. Our platform offers state-of-the-art encryption technologies, token-based authentication, and a user-friendly interface that makes even the most complex networks easily accessible. Whether you want to network your devices for private or business purposes – we make it possible, quickly, securely, and without compromise.
 
-Mit VPN23.com müssen Sie sich keine Sorgen um Sicherheit machen. Unsere Plattform bietet modernste Verschlüsselungstechnologien, token-basierte Authentifizierung und ein benutzerfreundliches Interface, das selbst komplexeste Netzwerke leicht zugänglich macht. Egal, ob Sie Ihre Geräte für private oder geschäftliche Zwecke vernetzen möchten – wir machen es möglich, schnell, sicher und ohne Kompromisse.
+**VPN23.com: The Future of Networking – simple, secure, and accessible to everyone.**
 
-**VPN23.com: Die Zukunft der Vernetzung – einfach, sicher und für alle nutzbar.**
+## Features
 
-## Funktionen
+### Virtual Networks
+**Create secure connections**  
+Create secure, VPN-like connections between your devices – anywhere and anytime, easily through our app.
 
-### Virtuelle Netzwerke
-**Erstellen Sie sichere Verbindungen**  
-Erstellen Sie sichere, VPN-ähnliche Verbindungen zwischen Ihren Geräten – überall und jederzeit, ganz einfach über unsere App.
+### User-Friendly API
+**For easy integration**  
+A powerful RESTful API allows users to easily integrate IoT devices and manage their networks.
 
-### Benutzerfreundliche API
-**Für einfache Integration**  
-Eine leistungsstarke RESTful API ermöglicht Benutzern die einfache Integration von IoT-Geräten und die Verwaltung Ihrer Netzwerke.
+### Docker Integration
+**Seamless connection**  
+Connect your home network with a few clicks and use our flexible Docker app for easy deployments.
 
-### Docker-Integration
-**Nahtlose Anbindung**  
-Verbinden Sie Ihr Heimnetzwerk mit wenigen Klicks und nutzen Sie unsere flexible Docker-App für einfache Deployments.
+### Maximum Security
+**Protect your data**  
+Benefit from state-of-the-art encryption, token-based authentication, and API access controls.
 
-### Maximale Sicherheit
-**Schützen Sie Ihre Daten**  
-Profitieren Sie von modernster Verschlüsselung, token-basierter Authentifizierung und API-Zugangskontrollen.
-
-## Tarifmodelle
+## Pricing Plans
 
 ### Promo
-**Alphatest Promotion**  
+**Alpha Test Promotion**  
 
-- Maximale Verbindungen: 2
-- Standard-Support
-- Grundlegende Sicherheitsfunktionen
+- Maximum connections: 2
+- Standard support
+- Basic security features
 
-**€0.00/Monat**
+**€0.00/Month**
 
-### Basic Abo
-- Maximale Verbindungen: 3
-- Standard-Support
-- Grundlegende Sicherheitsfunktionen
+### Basic Subscription
+- Maximum connections: 3
+- Standard support
+- Basic security features
 
-**€5.99/Monat**
+**€5.99/Month**
 
-**€59.99/Jahr**
+**€59.99/Year**
 
-### Pro Abo
-- Maximale Verbindungen: 6
-- Standard-Support
-- Grundlegende Sicherheitsfunktionen
-  
-**€11.99/Monat**
+### Pro Subscription
+- Maximum connections: 6
+- Standard support
+- Basic security features
 
-**€119.99/Jahr**
+**€11.99/Month**
 
-### Ultra Abo
+**€119.99/Year**
 
-- Maximale Verbindungen: 12
-- Premium-Support
-- Erweiterte Sicherheitsfunktionen
+### Ultra Subscription
 
-**€23.99/Monat**
+- Maximum connections: 12
+- Premium support
+- Advanced security features
 
-**€239.99/Jahr**
+**€23.99/Month**
 
+**€239.99/Year**
 
-### Platin Abo
-**Für Unternehmen oder Große Netzwerke**  
+### Platinum Subscription
+**For businesses or large networks**  
 
-- Maximale Verbindungen: 254
-- Premium-Support
-- Erweiterte Sicherheitsfunktionen
+- Maximum connections: 254
+- Premium support
+- Advanced security features
 
-**€99.99/Monat**
+**€99.99/Month**
 
-**€999.99/Jahr**
+**€999.99/Year**
 
-## Technologie-Stack
+## Technology Stack
 
 - **Backend:** Node.js
-- **Frontend:** Ionic React Capacitor (iOS, Android und Web Landing Page)
-- **Datenbank:** MySQL
-- **Zahlungsintegration:** Stripe
+- **Frontend:** Ionic React Capacitor (iOS, Android, and Web Landing Page)
+- **Database:** MySQL
+- **Payment Integration:** Stripe
 
 ## Demo
 
-Erleben Sie VPN23.com in Aktion! Besuchen Sie unsere [Demo-Seite](https://x3.dynu.com) und testen Sie die Funktionen kostenlos.
+Experience VPN23.com in action! Visit our [Demo Page](https://x3.dynu.com) and test the features for free.
 
 ## Installation
 
-Da der Quellcode nicht öffentlich zugänglich ist, können Sie die Plattform über unsere Demo oder durch Kontaktaufnahme mit unserem Vertriebsteam nutzen.
+Since the source code is not publicly accessible, you can use the platform via our demo or by contacting our sales team.
 
-## Kontakt
+## Contact
 
-Für weitere Informationen, Support oder Fragen kontaktieren Sie uns bitte:
+For more information, support, or questions, please contact us:
 
-- **E-Mail:** xheen908@gmail.com
+- **Email:** xheen908@gmail.com
 - **Demo:** [https://x3.dynu.com](https://x3.dynu.com)
 
-## Lizenz
+## License
 
-Dieses Projekt ist urheberrechtlich geschützt. Alle Rechte vorbehalten.
+This project is copyright protected. All rights reserved.
 
-## Danksagung
+## Acknowledgment
 
-Vielen Dank an alle, die zur Entwicklung und zum Wachstum von VPN23.com beigetragen haben!
-
+Many thanks to everyone who contributed to the development and growth of VPN23.com!
