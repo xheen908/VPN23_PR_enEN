@@ -37,6 +37,7 @@ Benefit from state-of-the-art encryption, token-based authentication, and API ac
 ## Pricing Plans
 
 ### Basic Subscription
+- Networks: 1
 - Maximum connections: 3
 - Standard support
 - Basic security features
@@ -48,6 +49,7 @@ Benefit from state-of-the-art encryption, token-based authentication, and API ac
 ---
 
 ### Pro Subscription
+- Networks: 2
 - Maximum connections: 6
 - Standard support
 - Basic security features
@@ -59,8 +61,8 @@ Benefit from state-of-the-art encryption, token-based authentication, and API ac
 ---
 
 ### Ultra Subscription
-
-- Maximum connections: 12
+- Networks: 5
+- Maximum connections: 15
 - Premium support
 - Advanced security features
 
@@ -72,7 +74,7 @@ Benefit from state-of-the-art encryption, token-based authentication, and API ac
 
 ### Platinum Subscription
 **For businesses or large networks**  
-
+- Multiple Networks
 - Maximum connections: 254
 - Premium support
 - Advanced security features
@@ -80,6 +82,20 @@ Benefit from state-of-the-art encryption, token-based authentication, and API ac
 **€99.99/Month**
 
 **€999.99/Year**
+
+---
+
+### Custom Subscription
+**For businesses or large networks**  
+
+- Custom connections
+- Custom networks
+- Custom support
+- Advanced security features
+
+**Custom Price**
+
+
 
 ---
 
