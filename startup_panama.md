@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://x3.dynu.com/assets/logo-D3O0-4lF.png" alt="VPN23 Logo" width="200"/>
+</div>
+
 # To-Do-Liste: VPN-Startup in Panama  
 ### (3 Gesellschafter – 1 Hauptgründer, 2 „Freunde“, je 12,5 % für 10.000 €)
 
@@ -121,4 +125,13 @@ Siehe deine ausführliche [*kalkulation.md*](https://github.com/xheen908/VPN23_/
 - **Operative Kosten**: Bereits in deiner [*kalkulation.md*](https://github.com/xheen908/VPN23_/blob/main/kalkulation.md) erläutert (Server, Marketing etc.).  
 - **Umsatzpotenzial**: Hohe Gewinnmarge bei wachsender Nutzerzahl (Break-Even ab ~50 Usern, starke Skalierung möglich).
 
-Mit diesem Vorgehen werden sämtliche **Reise-, Gründungs-** und **Anfangs-Operativkosten** direkt aus dem neu eingezahlten Gesellschaftskapital beglichen, ohne dass du als Hauptgründer privat in Vorleistung treten musst.  
+Mit diesem Vorgehen werden sämtliche **Reise-, Gründungs-** und **Anfangs-Operativkosten** direkt aus dem neu eingezahlten Gesellschaftskapital beglichen, ohne dass du als Hauptgründer privat in Vorleistung treten musst.
+
+---
+
+## Weitere Ressourcen
+
+- [Startup-Kalkulation (Solo-Founder)](https://github.com/xheen908/VPN23_/blob/main/startup_kalkulation.md)  
+- [Startup Businessplan](https://github.com/xheen908/VPN23_/blob/main/startup_buisnessplan.md)  
+- [Startup Roadmap](https://github.com/xheen908/VPN23_/blob/main/startup_roadmap.md)  
+- [Zusatz (Ergänzende Punkte)](https://github.com/xheen908/VPN23_/blob/main/zusatz.md)
