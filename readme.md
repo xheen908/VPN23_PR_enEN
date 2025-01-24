@@ -146,8 +146,9 @@ Many thanks to everyone who contributed to the development and growth of VPN23.c
 
 To learn more about our **startup calculations**, **business plan**, **Panama-based setup**, and further **details**, check out these pages (like chapters of a book):
 
-1. [Startup Kalkulation](https://github.com/xheen908/VPN23_PR_enEN/blob/main/startup_kalkulation.md)  
+1. [Startup Kalkulation](https://github.com/xheen908/VPN23_PR_enEN/blob/main/startup_kalkulation.md)]
 2. [Startup in Panama](https://github.com/xheen908/VPN23_PR_enEN/blob/main/startup_panama.md)  
 3. [Startup Businessplan](https://github.com/xheen908/VPN23_PR_enEN/blob/main/startup_buisnessplan.md)  
 4. [Startup Roadmap](https://github.com/xheen908/VPN23_PR_enEN/blob/main/startup_roadmap.md)  
 5. [Zusatz – Ergänzende Punkte](https://github.com/xheen908/VPN23_PR_enEN/blob/main/zusatz.md)
+6. [Shareholders_Agreement.md](https://github.com/xheen908/VPN23_PR_enEN/blob/main/Shareholders_Agreement.md)
