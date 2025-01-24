@@ -2,7 +2,7 @@
 VPN23_Presentation
 # VPN23.com
 
-![VPN23 Logo](https://x3.dynu.com/logo.png)
+![VPN23 Logo](https://x3.dynu.com/assets/logo-D3O0-4lF.png)
 
 ## Unsere Vision
 
