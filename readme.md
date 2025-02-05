@@ -125,7 +125,7 @@ For more information, support, or questions, please contact us:
 
 - **Email:** xheen908@gmail.com  
 - **Demo:** [https://vpn23.com](https://vpn23.comm)  
-- **Demo Android App:** [https://xvpn23.com/public/VPN23_0.25.7_(alpha).apk](https://x3.dynu.com/public/VPN23_0.25.7_(alpha).apk)  
+- **Demo Android App:** [https://vpn23.com/public/VPN23_0.25.7_(alpha).apk](https://vpn23.com/public/VPN23_0.25.7_(alpha).apk)  
 
 ---
 
